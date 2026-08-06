@@ -22,10 +22,3 @@
 
 ---
 
-## 📫 Связаться со мной
-
-👁️ Личный аккаунт: 
-https://t.me/Darkly000
-
-📢 Telegram канал:  
-https://t.me/Darklyq
