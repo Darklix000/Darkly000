@@ -24,8 +24,8 @@
 
 ## 📫 Связаться со мной
 
-💻 GitHub:  
-https://github.com/Darkly000
+👁️ Личный аккаунт:
+https://t.me/Darkly000
 
 📢 Telegram канал:  
 https://t.me/Darklyq
