@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/GitHub-Darkly000-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://t.me/Darklyq">
-<img src="https://img.shields.io/badge/Telegram%20Channel-Darklyq-26A5E4?style=for-the-badge&logo=telegram" />
-</a>
-
 </p>
 
 ---
