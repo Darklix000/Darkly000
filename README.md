@@ -1,57 +1,83 @@
+# 🖤 Darklix
 
-# 👋 Hi, I'm Darklix
+> **Vibe Coder • Python Developer • Web Developer**
 
-💻 **Vibe Coder | Python Developer | Web Developer**
-
-I enjoy building things, experimenting with code, and turning ideas into useful projects.
-
-### 🛠️ What I Do
-
-* 🐍 Write **Python scripts**
-* 🌐 Build websites with **HTML + CSS + JavaScript**
-* 🔧 Create useful **scripts and utilities**
-* 💡 Vibe code and experiment with different technologies
-* 🚀 Turn ideas into working projects
-
-### 💻 Languages I Vibe Code With
-
-```text
-HTML
-CSS
-JavaScript
-Python
-C
-C++
-C#
-```
-
-### 🐍 Python
-
-Python is my main programming language. I use it to create scripts, automation tools, utilities, and various other projects.
-
-### 🌐 Web Development
-
-I can build websites using:
-
-* HTML
-* CSS
-* JavaScript
-
-If a project needs JavaScript, I can add it to make the website interactive and dynamic.
-
-### 🔨 What I Like Building
-
-> Small tools, useful utilities, scripts, websites, experiments, and anything that sounds interesting.
+I like turning ideas into code, experimenting with technologies, and building useful things.
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darklix\&show_icons=true\&theme=dark)
+* 🐍 Python is my main language
+* 🌐 I build websites with **HTML, CSS & JavaScript**
+* 🔧 I create **Python scripts & useful utilities**
+* 💻 I enjoy **vibe coding**
+* 🚀 I like experimenting and building new projects
 
-### 🚀 Let's Build Something
+---
 
-Thanks for visiting my profile!
-Feel free to explore my repositories and see what I'm working on.
+## 🖥️ Languages
 
-**Code → Experiment → Build → Repeat 🔥**
+```text
+HTML       ████████████████████
+CSS        ████████████████████
+JavaScript ████████████████████
+Python     ████████████████████
+C          ███████████████
+C++        ███████████████
+C#         ███████████████
+```
+
+---
+
+## 🐍 Python
+
+Python is my main programming language.
+
+I use it for:
+
+* Automation
+* Scripts
+* Utilities
+* Small tools
+* Experiments
+* Various useful projects
+
+---
+
+## 🌐 Web Development
+
+I build websites using:
+
+**HTML • CSS • JavaScript**
+
+From simple static pages to interactive websites.
+
+---
+
+## 🔨 What I Build
+
+```text
+┌─────────────────────────────┐
+│  🌐 Websites                │
+│  🐍 Python Scripts          │
+│  🔧 Useful Utilities        │
+│  ⚙️ Automation              │
+│  🧪 Experiments             │
+│  💡 Random Ideas            │
+└─────────────────────────────┘
+```
+
+---
+
+## 🖤 Philosophy
+
+> **Code. Experiment. Break things. Fix them. Repeat.**
+
+---
+
+### ⚫ Thanks for visiting
+
+Check out my repositories and see what I'm building.
+
+**— Darklix**
